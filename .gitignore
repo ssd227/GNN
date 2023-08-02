@@ -1,0 +1,7 @@
+*pytest_cahce*
+*__pycache__*
+*.pdf
+
+cs224w/colab2/enzymes/
+cs224w/colab2/dataset/
+cs224w/colab5/acm.pkl
